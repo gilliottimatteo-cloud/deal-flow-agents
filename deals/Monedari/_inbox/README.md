@@ -1,0 +1,2 @@
+- `deck/` holds the pitch deck.
+- `pre-ic-calls/` holds the notes from the first calls with the founders (often a single call). The pre-screen and the Pre-IC scorecard read them.

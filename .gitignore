@@ -1,0 +1,5 @@
+# Stays on this computer, never uploaded
+decisions.md
+_staging/
+.DS_Store
+.claude/settings.local.json
