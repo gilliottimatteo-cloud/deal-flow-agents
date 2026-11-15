@@ -84,6 +84,10 @@ The example stops where a real deal pauses: at the first investment committee, w
 
 [`HOW-TO.md`](HOW-TO.md) lists every request the system understands, in order.
 
+## How this repository was built
+
+I rebuilt it with the same kind of system it describes. One planning agent split the work into independent parts and briefed several builder agents, who wrote the agents and skills in parallel, each on its own files. A separate checker agent then reviewed everything for consistency between files, and for anything from the original fund, before it went public.
+
 ## What I would build differently today
 
 I built the original while learning, and I kept this copy faithful to it. These are the changes I would make now:
